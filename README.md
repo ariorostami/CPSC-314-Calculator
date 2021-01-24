@@ -9,6 +9,8 @@ You can do this by calling `pip install numpy` in the command line
 ## 2) cd to the folder you downloaded the script in and call `python 314Calculator.py` in cmd.
 
 ## 3) Pick your desired operation and enjoy!
+Just enter the number of your desired calculation and hit enter. Arrays are entered one number at a time.
+
 Operations to choose from are as follows:
 1.  Raytracing a sphere
 2.  Ray plane intersection
