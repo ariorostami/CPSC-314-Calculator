@@ -1,12 +1,14 @@
 # CPSC-314-Calculator
  A python script calculator to do calculations for UBC CPSC 314 or similar intro graphics classes
+ 
  Worked on in Winter 2020 with Poh Leanne Kee and J. Nicholas Nadeau.
 
 # How to run
 ## 1) Install Numpy
 You can do this by calling `pip install numpy` in the command line
 
-## 2) cd to the folder you downloaded the script in and call `python 314Calculator.py` in cmd.
+## 2) Call 314Calculator
+cd to the folder you downloaded the script in and call `python 314Calculator.py` in cmd.
 
 ## 3) Pick your desired operation and enjoy!
 Just enter the number of your desired calculation and hit enter. Arrays are entered one number at a time.
